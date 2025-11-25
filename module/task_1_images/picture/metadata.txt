@@ -1,0 +1,7 @@
+picture_1.jpg - 130
+picture_2.jpg - 94
+picture_3.jpg - 187
+picture_4.jpg - 228
+picture_5.jpg - 114
+
+size 39.5х49.5х1.7
